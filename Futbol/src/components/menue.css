@@ -1,0 +1,23 @@
+.menu1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background: linear-gradient(to right, #382502, #ffa601);
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.nav_menu {
+    color: white;
+}
+
+.boton_de_cambio {
+    background-color: yellow;
+    cursor: pointer;
+    border: 1px solid black
+}
