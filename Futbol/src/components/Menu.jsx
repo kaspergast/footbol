@@ -1,5 +1,9 @@
 import './menue.css'
 function Menu1() {
+  const toggleTheme = () => {
+    document.body.classList.toggle('dark-theme');
+  };
+
   return (
     <>
       <nav className="menu1">
@@ -9,7 +13,7 @@ function Menu1() {
           <p>gestiona tus favoritas, analiza estadisticas y descubre talentos</p>
         </div>
         <div className="boton_action">
-          <button className="boton_de_cambio"><p>cambio de tema</p></button>
+          <button className="boton_de_cambio" onClick={toggleTheme}><p>cambio de tema</p></button>
         </div>
 
       </nav>
