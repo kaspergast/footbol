@@ -193,26 +193,18 @@
   min-height: 100vh;
 }
 
-/* ESTA ES LA MAGIA: El contenedor padre del cubo */
 .main-content {
   display: flex;
   justify-content: center;
-  /* Centra horizontalmente */
   align-items: center;
-  /* Centra verticalmente */
   flex-grow: 1;
-  /* Toma todo el espacio disponible debajo del menú */
   width: 100%;
+  top: -29px;
+  position: relative;
 }
 
-/* Tu berraco cubo */
 .cubito {
-  width: 400px;
-  /* Dale el ancho que quieras */
-  height: 400px;
-  /* Dale el alto que quieras */
+  width: 900px;
+  height: 450px;
   background-color: #2a2a2a;
-  /* El color gris oscuro de tu imagen */
-  border-radius: 8px;
-  /* Por si quieres bordes suavizados */
 }
