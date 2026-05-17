@@ -1,5 +1,6 @@
 import './App.css'
 import Menu1 from './components/Menu'
+import Buscador from './components/Buscador'
 
 function App() {
   return (
@@ -7,7 +8,9 @@ function App() {
       <Menu1 />
 
       <main className="main-content">
-        <div className="cubito"></div>
+        <div className="cubito">
+          <Buscador />
+        </div>
       </main>
     </div>
   )
