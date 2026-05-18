@@ -1,0 +1,502 @@
+[
+    {
+        "nombre": "Lionel Messi",
+        "club": "Inter Miami",
+        "posicion": "Delantero",
+        "pais": "Argentina",
+        "edad": 37,
+        "goles": 24,
+        "asistencias": 14,
+        "rating": 9.5
+    },
+    {
+        "nombre": "Cristiano Ronaldo",
+        "club": "Al Nassr",
+        "posicion": "Delantero",
+        "pais": "Portugal",
+        "edad": 40,
+        "goles": 32,
+        "asistencias": 22,
+        "rating": 8.2
+    },
+    {
+        "nombre": "Erling Haaland",
+        "club": "Manchester City",
+        "posicion": "Delantero",
+        "pais": "Noruega",
+        "edad": 24,
+        "goles": 35,
+        "asistencias": 11,
+        "rating": 9.8
+    },
+    {
+        "nombre": "Kylian Mbappé",
+        "club": "Real Madrid",
+        "posicion": "Delantero",
+        "pais": "Francia",
+        "edad": 26,
+        "goles": 31,
+        "asistencias": 15,
+        "rating": 8.2
+    },
+    {
+        "nombre": "Kevin De Bruyne",
+        "club": "Manchester City",
+        "posicion": "Mediocampista",
+        "pais": "Bélgica",
+        "edad": 33,
+        "goles": 9,
+        "asistencias": 9,
+        "rating": 9.7
+    },
+    {
+        "nombre": "Jude Bellingham",
+        "club": "Real Madrid",
+        "posicion": "Mediocampista",
+        "pais": "Inglaterra",
+        "edad": 22,
+        "goles": 18,
+        "asistencias": 11,
+        "rating": 9.4
+    },
+    {
+        "nombre": "Neymar Jr",
+        "club": "Santos",
+        "posicion": "Delantero",
+        "pais": "Brasil",
+        "edad": 33,
+        "goles": 17,
+        "asistencias": 9,
+        "rating": 8.3
+    },
+    {
+        "nombre": "Vinicius Jr",
+        "club": "Real Madrid",
+        "posicion": "Delantero",
+        "pais": "Brasil",
+        "edad": 25,
+        "goles": 21,
+        "asistencias": 22,
+        "rating": 9.3
+    },
+    {
+        "nombre": "Rodri",
+        "club": "Manchester City",
+        "posicion": "Mediocampista",
+        "pais": "España",
+        "edad": 29,
+        "goles": 8,
+        "asistencias": 24,
+        "rating": 8.6
+    },
+    {
+        "nombre": "Harry Kane",
+        "club": "Bayern Munich",
+        "posicion": "Delantero",
+        "pais": "Inglaterra",
+        "edad": 31,
+        "goles": 36,
+        "asistencias": 24,
+        "rating": 7.7
+    },
+    {
+        "nombre": "Robert Lewandowski",
+        "club": "Barcelona",
+        "posicion": "Delantero",
+        "pais": "Polonia",
+        "edad": 36,
+        "goles": 29,
+        "asistencias": 18,
+        "rating": 7.8
+    },
+    {
+        "nombre": "Mohamed Salah",
+        "club": "Liverpool",
+        "posicion": "Delantero",
+        "pais": "Egipto",
+        "edad": 33,
+        "goles": 28,
+        "asistencias": 17,
+        "rating": 9.7
+    },
+    {
+        "nombre": "Luka Modric",
+        "club": "Real Madrid",
+        "posicion": "Mediocampista",
+        "pais": "Croacia",
+        "edad": 39,
+        "goles": 5,
+        "asistencias": 11,
+        "rating": 9.2
+    },
+    {
+        "nombre": "Pedri",
+        "club": "Barcelona",
+        "posicion": "Mediocampista",
+        "pais": "España",
+        "edad": 22,
+        "goles": 7,
+        "asistencias": 19,
+        "rating": 8.9
+    },
+    {
+        "nombre": "Gavi",
+        "club": "Barcelona",
+        "posicion": "Mediocampista",
+        "pais": "España",
+        "edad": 21,
+        "goles": 4,
+        "asistencias": 10,
+        "rating": 7.5
+    },
+    {
+        "nombre": "Bruno Fernandes",
+        "club": "Manchester United",
+        "posicion": "Mediocampista",
+        "pais": "Portugal",
+        "edad": 30,
+        "goles": 16,
+        "asistencias": 19,
+        "rating": 8.6
+    },
+    {
+        "nombre": "Marcus Rashford",
+        "club": "Manchester United",
+        "posicion": "Delantero",
+        "pais": "Inglaterra",
+        "edad": 27,
+        "goles": 19,
+        "asistencias": 15,
+        "rating": 9.8
+    },
+    {
+        "nombre": "Bukayo Saka",
+        "club": "Arsenal",
+        "posicion": "Delantero",
+        "pais": "Inglaterra",
+        "edad": 24,
+        "goles": 18,
+        "asistencias": 14,
+        "rating": 8.2
+    },
+    {
+        "nombre": "Martin Odegaard",
+        "club": "Arsenal",
+        "posicion": "Mediocampista",
+        "pais": "Noruega",
+        "edad": 26,
+        "goles": 11,
+        "asistencias": 5,
+        "rating": 9.6
+    },
+    {
+        "nombre": "Declan Rice",
+        "club": "Arsenal",
+        "posicion": "Mediocampista",
+        "pais": "Inglaterra",
+        "edad": 26,
+        "goles": 6,
+        "asistencias": 7,
+        "rating": 7.5
+    },
+    {
+        "nombre": "Cole Palmer",
+        "club": "Chelsea",
+        "posicion": "Delantero",
+        "pais": "Inglaterra",
+        "edad": 23,
+        "goles": 22,
+        "asistencias": 17,
+        "rating": 9.6
+    },
+    {
+        "nombre": "Enzo Fernandez",
+        "club": "Chelsea",
+        "posicion": "Mediocampista",
+        "pais": "Argentina",
+        "edad": 24,
+        "goles": 5,
+        "asistencias": 7,
+        "rating": 9.6
+    },
+    {
+        "nombre": "Joao Felix",
+        "club": "Chelsea",
+        "posicion": "Delantero",
+        "pais": "Portugal",
+        "edad": 25,
+        "goles": 10,
+        "asistencias": 6,
+        "rating": 8.3
+    },
+    {
+        "nombre": "Antoine Griezmann",
+        "club": "Atlético Madrid",
+        "posicion": "Delantero",
+        "pais": "Francia",
+        "edad": 34,
+        "goles": 20,
+        "asistencias": 8,
+        "rating": 7.6
+    },
+    {
+        "nombre": "Jan Oblak",
+        "club": "Atlético Madrid",
+        "posicion": "Portero",
+        "pais": "Eslovenia",
+        "edad": 32,
+        "goles": 0,
+        "asistencias": 7,
+        "rating": 9.2
+    },
+    {
+        "nombre": "Ter Stegen",
+        "club": "Barcelona",
+        "posicion": "Portero",
+        "pais": "Alemania",
+        "edad": 33,
+        "goles": 0,
+        "asistencias": 9,
+        "rating": 8.3
+    },
+    {
+        "nombre": "Thibaut Courtois",
+        "club": "Real Madrid",
+        "posicion": "Portero",
+        "pais": "Bélgica",
+        "edad": 33,
+        "goles": 0,
+        "asistencias": 18,
+        "rating": 9.2
+    },
+    {
+        "nombre": "Alisson Becker",
+        "club": "Liverpool",
+        "posicion": "Portero",
+        "pais": "Brasil",
+        "edad": 32,
+        "goles": 0,
+        "asistencias": 8,
+        "rating": 8.8
+    },
+    {
+        "nombre": "Virgil Van Dijk",
+        "club": "Liverpool",
+        "posicion": "Defensa",
+        "pais": "Países Bajos",
+        "edad": 34,
+        "goles": 4,
+        "asistencias": 9,
+        "rating": 8.7
+    },
+    {
+        "nombre": "Trent Alexander-Arnold",
+        "club": "Liverpool",
+        "posicion": "Defensa",
+        "pais": "Inglaterra",
+        "edad": 26,
+        "goles": 3,
+        "asistencias": 14,
+        "rating": 9.1
+    },
+    {
+        "nombre": "Ruben Dias",
+        "club": "Manchester City",
+        "posicion": "Defensa",
+        "pais": "Portugal",
+        "edad": 28,
+        "goles": 2,
+        "asistencias": 5,
+        "rating": 7.6
+    },
+    {
+        "nombre": "John Stones",
+        "club": "Manchester City",
+        "posicion": "Defensa",
+        "pais": "Inglaterra",
+        "edad": 31,
+        "goles": 2,
+        "asistencias": 9,
+        "rating": 8.3
+    },
+    {
+        "nombre": "Achraf Hakimi",
+        "club": "PSG",
+        "posicion": "Defensa",
+        "pais": "Marruecos",
+        "edad": 26,
+        "goles": 7,
+        "asistencias": 5,
+        "rating": 9.8
+    },
+    {
+        "nombre": "Ousmane Dembele",
+        "club": "PSG",
+        "posicion": "Delantero",
+        "pais": "Francia",
+        "edad": 28,
+        "goles": 15,
+        "asistencias": 14,
+        "rating": 8.9
+    },
+    {
+        "nombre": "Gianluigi Donnarumma",
+        "club": "PSG",
+        "posicion": "Portero",
+        "pais": "Italia",
+        "edad": 26,
+        "goles": 0,
+        "asistencias": 8,
+        "rating": 8.5
+    },
+    {
+        "nombre": "Khvicha Kvaratskhelia",
+        "club": "Napoli",
+        "posicion": "Delantero",
+        "pais": "Georgia",
+        "edad": 24,
+        "goles": 16,
+        "asistencias": 9,
+        "rating": 7.5
+    },
+    {
+        "nombre": "Victor Osimhen",
+        "club": "Galatasaray",
+        "posicion": "Delantero",
+        "pais": "Nigeria",
+        "edad": 26,
+        "goles": 27,
+        "asistencias": 24,
+        "rating": 8.1
+    },
+    {
+        "nombre": "Rafael Leao",
+        "club": "AC Milan",
+        "posicion": "Delantero",
+        "pais": "Portugal",
+        "edad": 26,
+        "goles": 14,
+        "asistencias": 24,
+        "rating": 8.6
+    },
+    {
+        "nombre": "Theo Hernandez",
+        "club": "AC Milan",
+        "posicion": "Defensa",
+        "pais": "Francia",
+        "edad": 27,
+        "goles": 6,
+        "asistencias": 12,
+        "rating": 9.8
+    },
+    {
+        "nombre": "Paulo Dybala",
+        "club": "Roma",
+        "posicion": "Delantero",
+        "pais": "Argentina",
+        "edad": 31,
+        "goles": 13,
+        "asistencias": 14,
+        "rating": 9.2
+    },
+    {
+        "nombre": "Lautaro Martinez",
+        "club": "Inter",
+        "posicion": "Delantero",
+        "pais": "Argentina",
+        "edad": 28,
+        "goles": 30,
+        "asistencias": 24,
+        "rating": 9.2
+    },
+    {
+        "nombre": "Nicolo Barella",
+        "club": "Inter",
+        "posicion": "Mediocampista",
+        "pais": "Italia",
+        "edad": 28,
+        "goles": 7,
+        "asistencias": 8,
+        "rating": 8.1
+    },
+    {
+        "nombre": "Federico Chiesa",
+        "club": "Liverpool",
+        "posicion": "Delantero",
+        "pais": "Italia",
+        "edad": 27,
+        "goles": 11,
+        "asistencias": 10,
+        "rating": 7.6
+    },
+    {
+        "nombre": "Son Heung-min",
+        "club": "Tottenham",
+        "posicion": "Delantero",
+        "pais": "Corea del Sur",
+        "edad": 33,
+        "goles": 23,
+        "asistencias": 22,
+        "rating": 8.7
+    },
+    {
+        "nombre": "James Rodriguez",
+        "club": "León",
+        "posicion": "Mediocampista",
+        "pais": "Colombia",
+        "edad": 34,
+        "goles": 8,
+        "asistencias": 21,
+        "rating": 7.6
+    },
+    {
+        "nombre": "Luis Diaz",
+        "club": "Liverpool",
+        "posicion": "Delantero",
+        "pais": "Colombia",
+        "edad": 28,
+        "goles": 17,
+        "asistencias": 8,
+        "rating": 8.5
+    },
+    {
+        "nombre": "Yerry Mina",
+        "club": "Cagliari",
+        "posicion": "Defensa",
+        "pais": "Colombia",
+        "edad": 30,
+        "goles": 2,
+        "asistencias": 20,
+        "rating": 9.8
+    },
+    {
+        "nombre": "David Alaba",
+        "club": "Real Madrid",
+        "posicion": "Defensa",
+        "pais": "Austria",
+        "edad": 33,
+        "goles": 3,
+        "asistencias": 23,
+        "rating": 8.8
+    },
+    {
+        "nombre": "Joshua Kimmich",
+        "club": "Bayern Munich",
+        "posicion": "Mediocampista",
+        "pais": "Alemania",
+        "edad": 30,
+        "goles": 8,
+        "asistencias": 7,
+        "rating": 8.1
+    },
+    {
+        "nombre": "Manuel Neuer",
+        "club": "Bayern Munich",
+        "posicion": "Portero",
+        "pais": "Alemania",
+        "edad": 39,
+        "goles": 0,
+        "asistencias": 22,
+        "rating": 9.6
+    }
+]

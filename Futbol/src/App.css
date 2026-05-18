@@ -199,13 +199,13 @@
   align-items: center;
   flex-grow: 1;
   width: 100%;
-  top: -29px;
   position: relative;
 }
 
 .cubito {
-  width: 900px;
-  height: 450px;
+  width: 100%;
+  max-width: 1200px;
+  min-height: 80vh;
   background-color: #ffffff;
   transition: background-color 0.5s ease;
   display: flex;
@@ -213,6 +213,7 @@
   align-items: flex-start;
   padding: 30px;
   box-sizing: border-box;
+  border-radius: 10px;
 }
 
 body.dark-theme .cubito {
