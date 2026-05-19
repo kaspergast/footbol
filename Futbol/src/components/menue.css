@@ -21,3 +21,13 @@
     cursor: pointer;
     border: 1px solid black
 }
+
+/* ====== MEDIA QUERIES ====== */
+@media screen and (max-width: 768px) {
+    .menu1 {
+        padding: 15px 20px;
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+}

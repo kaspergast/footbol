@@ -514,3 +514,57 @@
 .btn-modal-cerrar:hover {
     background-color: #666;
 }
+
+/* ====== MEDIA QUERIES (Responsive Design) ====== */
+
+@media screen and (max-width: 900px) {
+    .stats-row {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .stats-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .search-bar-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .actions-row {
+        flex-wrap: wrap;
+    }
+    
+    .modal-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .pagination-row {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .stats-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .modal-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .modal-content {
+        padding: 15px;
+    }
+    
+    .stat-value {
+        font-size: 20px;
+    }
+    
+    .stat-card.highlight .stat-value.huge {
+        font-size: 28px;
+    }
+}

@@ -219,3 +219,11 @@
 body.dark-theme .cubito {
   background-color: #2a2a2a;
 }
+
+/* ====== MEDIA QUERIES ====== */
+@media screen and (max-width: 768px) {
+  .cubito {
+    padding: 15px;
+    border-radius: 0;
+  }
+}
